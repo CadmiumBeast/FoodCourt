@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodCourt</string>
+    <string name="log_in">Log-In</string>
+    <string name="button">Button</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="food_is_everything">Food Is Everything</string>
+    <string name="foodcourt">FoodCourt</string>
+    <string name="sign_up">sign-up</string>
+    <string name="already_have_a_account">Already Have a Account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
