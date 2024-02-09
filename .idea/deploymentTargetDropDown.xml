@@ -9,13 +9,13 @@
               <type value="RUNNING_DEVICE_TARGET" />
               <deviceKey>
                 <Key>
-                  <type value="VIRTUAL_DEVICE_PATH" />
-                  <value value="C:\Users\shake\.android\avd\Medium_Phone_API_31.avd" />
+                  <type value="SERIAL_NUMBER" />
+                  <value value="R9YRC00TKYA" />
                 </Key>
               </deviceKey>
             </Target>
           </runningDeviceTargetSelectedWithDropDown>
-          <timeTargetWasSelectedWithDropDown value="2024-02-09T18:05:18.189963300Z" />
+          <timeTargetWasSelectedWithDropDown value="2024-02-09T18:06:30.561392200Z" />
         </State>
       </entry>
     </value>
